@@ -1,0 +1,12 @@
+Q1 
+ class HelloWorld {
+     public static void main(String args[]){
+        System.out.println("Hello!");
+   }
+ }
+Q2
+class Name {
+  public static void main(String args[]){
+      System.out.println("Kalik");
+  }
+}
