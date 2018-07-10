@@ -1,4 +1,4 @@
-package com.ashutoshrana.registrationform;
+package com.kalik.registrationform;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
